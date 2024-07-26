@@ -1,2 +1,2 @@
 # my-vscode-setup
-Vscode settings.json file.
+Settings file of vscode.
